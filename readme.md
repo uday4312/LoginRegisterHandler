@@ -3,5 +3,5 @@
 and follow these steps : 
   
   1. Navigate towards the downloaded folder
-  2. Open terminal and type #npm start# // it will start the development server, i'd used nodemon for auto updataion while making changes
+  2. Open terminal and type npm start // it will start the development server, i'd used nodemon for auto updataion while making changes
   
